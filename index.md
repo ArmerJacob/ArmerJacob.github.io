@@ -44,3 +44,7 @@ As a piece of coursework i was tasked with creating a 2D simulation with basic p
 
 DnD Initiative Calculator:
 
+Other Projects:
+Youtube Channel:
+
+Card Game:
