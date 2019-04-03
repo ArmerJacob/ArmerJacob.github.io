@@ -11,7 +11,7 @@ for the University and also as personal projects.
 
 <img src="images/3DLight2.png" alt="3D Lighting">
 
-Here is a video Demo of the 3D Lighting project.
+Here is a video demo of the 3D Lighting project.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/THPk8BGfypQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -21,11 +21,19 @@ Here is a video Demo of the 3D Lighting project.
 
 <img src="images/3DDungeon2.png" alt="3D Dungeon">
 
+Here is a video demo of the 3D Dungeon project.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AbW8nn6e33g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 3D Pacman:
 
 <img src="images/Pacman1.png" alt="3D Pacman">
 
 <img src="images/Pacman2.png" alt="3D Pacman">
+
+Here is a video demo of my 3D Pacman game.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jwVj4e4HU9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2D Simulation:
 
