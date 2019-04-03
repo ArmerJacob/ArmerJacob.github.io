@@ -13,15 +13,15 @@ for the University and also as personal projects.
 
 3D Dungeon:
 
-<img src="images/3DDungeon1.jpg" alt="3D Dungeon">
+<img src="images/3DDungeon1.png" alt="3D Dungeon">
 
-<img src="images/3DDungeon2.jpg" alt="3D Dungeon">
+<img src="images/3DDungeon2.png" alt="3D Dungeon">
 
 3D Pacman:
 
-<img src="images/Pacman1.jpg" alt="3D Pacman">
+<img src="images/Pacman1.png" alt="3D Pacman">
 
-<img src="images/Pacman2.jpg" alt="3D Pacman">
+<img src="images/Pacman2.png" alt="3D Pacman">
 
 2D Simulation:
 
