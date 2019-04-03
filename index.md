@@ -7,10 +7,21 @@ Over the time i have spent with the University of Hull i have worked on several 
 for the University and also as personal projects.
 
 3D Lighting:
+<img src="images/3DLight1.png" alt="3D Lighting">
+
+<img src="images/3DLight2.png" alt="3D Lighting">
 
 3D Dungeon:
 
+<img src="images/3DDungeon1.png" alt="3D Dungeon">
+
+<img src="images/3DDungeon2.png" alt="3D Dungeon">
+
 3D Pacman:
+
+<img src="images/Pacman1.png" alt="3D Pacman">
+
+<img src="images/Pacman2.png" alt="3D Pacman">
 
 2D Simulation:
 
