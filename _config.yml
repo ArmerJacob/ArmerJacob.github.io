@@ -16,6 +16,7 @@ author:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+remote_theme: much-worse-jekyll-theme
 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
