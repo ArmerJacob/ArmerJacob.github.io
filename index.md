@@ -2,11 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hello! My name is Jacob(Jake) and i am a student at the University of Hull studying Computer Science.
+over the time i have spent with the University of Hull i have worked on several projects both
+for the University and also as personal projects.
 
-[Link to another page](./another-page.html).
+2D Simulation:
+As a piece of coursework i was tasked with creating a 2D simulation with basic physics.
+[That can be found here!](./2D/index.html).
 
-[Link to another page](./2D/index.html).
 
 There should be whitespace between paragraphs.
 
