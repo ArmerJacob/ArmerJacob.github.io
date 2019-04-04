@@ -34,7 +34,7 @@ Here is a video demo of my 3D Pacman game.
 
 Click the image to see it in action!
 
-[<img src="images/2D.png" alt="2D Simulation" style="width:400px;height:400px;">](./2D/index.html).
+[<img src="images/2D.png" alt="2D Simulation" style="width:400px;height:400px;" target="_blank">](./2D/index.html).
 
 As a piece of coursework i was tasked with creating a 2D simulation with basic physics.
 
@@ -59,7 +59,7 @@ These are some other programming and non-programming projects that i pursue main
 I do run a youtube channel and create video reviews of video games for fun. This is mostly because of a love of video editing that I have,
 and scince finishign at college and not doing Creative Media anymore, i felt a need to scratch the video editing itch that it left me with.
 
- <a href="https://www.youtube.com/channel/UCo9LstsNtOA1EngX57YISyQ">My channel can be found here!</a> 
+ <a href="https://www.youtube.com/channel/UCo9LstsNtOA1EngX57YISyQ" target="_blank">My channel can be found here!</a> 
 
 
 ### Card Game:
