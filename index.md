@@ -38,11 +38,21 @@ Click the image to see it in action!
 
 As a piece of coursework i was tasked with creating a 2D simulation with basic physics.
 
-## DnD Initiative Calculator:
+## Wordsearch solver
 
-## Other Projects:
 
-These are some other non-programming projects that i pursue mainly out of an interest and love for them.
+
+## Whois lookup
+
+
+
+## Other Personal Projects:
+
+These are some other programming and non-programming projects that i pursue mainly out of an interest and love for them.
+
+### DnD Initiative Calculator:
+
+
 
 ### Youtube Channel:
 
@@ -65,3 +75,4 @@ are our characters. I have created a digital mock up of the card game that is pl
 this be printed and published.
 
 <img src="images/SpoonCard.png" alt="Spoon Character Card" style="width:300px;height:400px;"> <img src="images/danmation.png" alt="Damnation Band Card" style="width:300px;height:400px;"> <img src="images/bokgaruk.png" alt="Bok-Garuk Card" style="width:300px;height:400px;"> <img src="images/fireball.png" alt="Fireball Card" style="width:300px;height:400px;"> 
+
