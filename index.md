@@ -70,4 +70,4 @@ This is a card game i have been slowly working on in my free time based on a Dun
 are our characters. I have created a digital mock up of the card game that is playable on Tabletop Simulator, and after i gather up enough art assets i intend on having
 this be printed and published.
 
-<img src="images/SpoonCard.png" alt="Spoon Character Card" style="width:300px;height:400px;"> <img src="images/danmation.png" alt="Damnation Band Card" style="width:300px;height:400px;"> <img src="images/bokgaruk.png" alt="Bok-Garuk Card" style="width:300px;height:400px;">
+<img src="images/SpoonCard.png" alt="Spoon Character Card" style="width:300px;height:400px;"> <img src="images/danmation.png" alt="Damnation Band Card" style="width:300px;height:400px;"> <img src="images/bokgaruk.png" alt="Bok-Garuk Card" style="width:300px;height:400px;"> <img src="images/fireball.png" alt="Fireball Card" style="width:300px;height:400px;"> 
