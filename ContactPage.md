@@ -1,5 +1,5 @@
 ---
-layout: 2DLayout
+layout: contactLayout
 title: Jacob James Armer
 description: 2D Simulation
 ---
