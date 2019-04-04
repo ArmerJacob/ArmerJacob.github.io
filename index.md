@@ -7,9 +7,8 @@ Over the time I have spent with the University of Hull I have worked on several 
 for the University and also as personal projects.
 
 3D Lighting:
-<img src="images/3DLight1.png" alt="3D Lighting" style="width:400px;height:400px;">
 
-<img src="images/3DLight2.png" alt="3D Lighting" style="width:400px;height:400px;">
+<img src="images/3DLight1.png" alt="3D Lighting" style="width:400px;height:300px;"> <img src="images/3DLight2.png" alt="3D Lighting" style="width:400px;height:300px;">
 
 Here is a video demo of the 3D Lighting project.
 
@@ -17,9 +16,7 @@ Here is a video demo of the 3D Lighting project.
 
 3D Dungeon:
 
-<img src="images/3DDungeon1.png" alt="3D Dungeon" style="width:400px;height:400px;">
-
-<img src="images/3DDungeon2.png" alt="3D Dungeon" style="width:400px;height:400px;">
+<img src="images/3DDungeon1.png" alt="3D Dungeon" style="width:600px;height:250px;"> <img src="images/3DDungeon2.png" alt="3D Dungeon" style="width:600px;height:250px;">
 
 Here is a video demo of the 3D Dungeon project.
 
@@ -27,9 +24,7 @@ Here is a video demo of the 3D Dungeon project.
 
 3D Pacman:
 
-<img src="images/Pacman1.png" alt="3D Pacman" style="width:400px;height:400px;">
-
-<img src="images/Pacman2.png" alt="3D Pacman" style="width:400px;height:400px;">
+<img src="images/Pacman1.png" alt="3D Pacman" style="width:750px;height:450px;"> <img src="images/Pacman2.png" alt="3D Pacman" style="width:750px;height:450px;">
 
 Here is a video demo of my 3D Pacman game.
 
