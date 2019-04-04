@@ -7,9 +7,9 @@ Over the time I have spent with the University of Hull I have worked on several 
 for the University and also as personal projects.
 
 3D Lighting:
-<img src="images/3DLight1.png" alt="3D Lighting">
+<img src="images/3DLight1.png" alt="3D Lighting" style="width:400px;height:400px;">
 
-<img src="images/3DLight2.png" alt="3D Lighting">
+<img src="images/3DLight2.png" alt="3D Lighting" style="width:400px;height:400px;">
 
 Here is a video demo of the 3D Lighting project.
 
@@ -17,9 +17,9 @@ Here is a video demo of the 3D Lighting project.
 
 3D Dungeon:
 
-<img src="images/3DDungeon1.png" alt="3D Dungeon">
+<img src="images/3DDungeon1.png" alt="3D Dungeon" style="width:400px;height:400px;">
 
-<img src="images/3DDungeon2.png" alt="3D Dungeon">
+<img src="images/3DDungeon2.png" alt="3D Dungeon" style="width:400px;height:400px;">
 
 Here is a video demo of the 3D Dungeon project.
 
@@ -27,9 +27,9 @@ Here is a video demo of the 3D Dungeon project.
 
 3D Pacman:
 
-<img src="images/Pacman1.png" alt="3D Pacman">
+<img src="images/Pacman1.png" alt="3D Pacman" style="width:400px;height:400px;">
 
-<img src="images/Pacman2.png" alt="3D Pacman">
+<img src="images/Pacman2.png" alt="3D Pacman" style="width:400px;height:400px;">
 
 Here is a video demo of my 3D Pacman game.
 
@@ -39,7 +39,7 @@ Here is a video demo of my 3D Pacman game.
 
 Click the image to see it in action!
 
-[<img src="images/2D.png" alt="2D Simulation">](./2D/index.html).
+[<img src="images/2D.png" alt="2D Simulation" style="width:400px;height:400px;">](./2D/index.html).
 
 As a piece of coursework i was tasked with creating a 2D simulation with basic physics.
 
