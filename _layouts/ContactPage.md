@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Jacob James Armer
-description: Contact Inforamtion
 ---
 
 ## Contact Info
