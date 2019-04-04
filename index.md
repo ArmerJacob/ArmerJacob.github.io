@@ -49,7 +49,7 @@ Youtube Channel:
 I do run a youtube channel and create video reviews of video games for fun. This is mostly because of a love of video editing that I have,
 and scince finishign at college and not doing Creative Media anymore, i felt a need to scratch the video editing itch that it left me with.
 
-[My channel can be found here.](https://www.youtube.com/channel/UCo9LstsNtOA1EngX57YISyQ)
+ <a href="https://www.youtube.com/channel/UCo9LstsNtOA1EngX57YISyQ">My channel can be found here!</a> 
 
 
 Card Game:
