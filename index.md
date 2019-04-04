@@ -2,8 +2,8 @@
 layout: default
 ---
 
-Hello! My name is Jacob (Jake) and i am a student at the University of Hull studying Computer Science.
-Over the time i have spent with the University of Hull i have worked on several projects both
+Hello! My name is Jacob (Jake) and I am a student at the University of Hull studying Computer Science.
+Over the time I have spent with the University of Hull I have worked on several projects both
 for the University and also as personal projects.
 
 3D Lighting:
@@ -37,16 +37,37 @@ Here is a video demo of my 3D Pacman game.
 
 2D Simulation:
 
+Click the image to see it in action!
+
 [<img src="images/2D.png" alt="2D Simulation">](./2D/index.html).
 
 As a piece of coursework i was tasked with creating a 2D simulation with basic physics.
-
-[That can be found here!](./2D/index.html).
 
 DnD Initiative Calculator:
 
 Other Projects:
 
+These are some other non-programming projects that i pursue mainly out of an interest and love for them.
+
 Youtube Channel:
 
+I do run a youtube channel and create video reviews of video games for fun. This is mostly because of a love of video editing that I have,
+and scince finishign at college and not doing Creative Media anymore, i felt a need to scratch the video editing itch that it left me with.
+
+My channel can be found here.
+
+https://www.youtube.com/channel/UCo9LstsNtOA1EngX57YISyQ
+
 Card Game:
+
+For as long as i can remember i have loved board games, growing up playing Cluedo with my family, i also played a lot of the Pokemon trading card game
+and as i became a teenager i discovered Magic the Gathering that i still play to this day. And so because of this i have always wanted to create my own 
+card game that people could enjoy as much as i did as a child.
+
+The Seven Snakes VS Giants:
+
+This is a card game i have been slowly working on in my free time based on a Dungeons and Dragons campaign that me and my friends played, where the character cards
+are out characters. I have created a digital mock up of the card game that is playable on Tabletop Simulator, and after i gather up enough art assets i intend on having
+this be printed and published.
+
+<img src="images/SpoonCard.png" alt="Spoon Character Card"> <img src="images/danmation.png" alt="Damnation Band Card"> <img src="images/bokgaruk.png" alt="Bok-Garuk Card">
