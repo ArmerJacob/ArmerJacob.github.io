@@ -39,7 +39,7 @@ Here is a video demo of my 3D Pacman game.
 Click the image to see it in action!
 
 [<img src="images/2D.png" alt="2D Simulation" style="width:400px;height:400px;" target="_blank">](./2DDemo.md).
-[test link](./ContactPage.md).
+[test link](./contactPage.md).
 
 
 As a piece of coursework i was tasked with creating a 2D simulation with basic physics.
