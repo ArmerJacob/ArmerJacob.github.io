@@ -67,7 +67,7 @@ card game that people could enjoy as much as i did as a child.
 The Seven Snakes VS Giants:
 
 This is a card game i have been slowly working on in my free time based on a Dungeons and Dragons campaign that me and my friends played, where the character cards
-are out characters. I have created a digital mock up of the card game that is playable on Tabletop Simulator, and after i gather up enough art assets i intend on having
+are our characters. I have created a digital mock up of the card game that is playable on Tabletop Simulator, and after i gather up enough art assets i intend on having
 this be printed and published.
 
-<img src="images/SpoonCard.png" alt="Spoon Character Card style="width:200px;height:400px;"> <img src="images/danmation.png" alt="Damnation Band Card style="width:200px;height:400px;"> <img src="images/bokgaruk.png" alt="Bok-Garuk Card style="width:200px;height:400px;">
+<img src="images/SpoonCard.png" alt="Spoon Character Card style="width:200px;height:400px"> <img src="images/danmation.png" alt="Damnation Band Card style="width:200px;height:400px"> <img src="images/bokgaruk.png" alt="Bok-Garuk Card style="width:200px;height:400px">
