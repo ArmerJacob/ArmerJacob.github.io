@@ -37,14 +37,16 @@ Here is a video demo of my 3D Pacman game.
 
 2D Simulation:
 
-<img src="images/2D.png" alt="2D Simulation">
+[<img src="images/2D.png" alt="2D Simulation">](./2D/index.html).
 
 As a piece of coursework i was tasked with creating a 2D simulation with basic physics.
+
 [That can be found here!](./2D/index.html).
 
 DnD Initiative Calculator:
 
 Other Projects:
+
 Youtube Channel:
 
 Card Game:
