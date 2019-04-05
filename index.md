@@ -3,6 +3,7 @@ layout: default
 ---
 
 [test link2](./testpage.md).
+<a href="./testpage.md" >test link</a> 
 
 Hello! My name is Jacob (Jake) and I am a student at the University of Hull studying Computer Science.
 Over the time I have spent with the University of Hull I have worked on several projects both
