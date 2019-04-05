@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<a [test link2] (./testpage.md). > </a>
-<a href=(./testpage.md) >test link</a> 
-
 Hello! My name is Jacob (Jake) and I am a student at the University of Hull studying Computer Science.
 Over the time I have spent with the University of Hull I have worked on several projects both
 for the University and also as personal projects.
@@ -42,8 +39,6 @@ Here is a video demo of my 3D Pacman game.
 Click the image to see it in action!
 
 [<img src="images/2D.png" alt="2D Simulation" style="width:400px;height:400px;" target="_blank">](./2DDemo.md).
-[test link](./contactPage.md).
-
 
 As a piece of coursework i was tasked with creating a 2D simulation with basic physics.
 
