@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 3
-date: 2017-04-16
+date: 2018-04-16
 img: 3DDungeon.png
 alt: image-alt
-project-date: April 2017
+project-date: April 2018
 client: University Coursework
 category: 3D Graphics
 description: As coursework for 3D Graphics, i had to make a dungeon with various visual effects.	<iframe width="560" height="315" src="https://www.youtube.com/embed/AbW8nn6e33g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
