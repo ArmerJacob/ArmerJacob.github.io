@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2018-12-10
+img: 3DPacman.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: December 2018
+client: University Coursework
+category: Game Development
+description: As a coursework for Games Architecture i had to make a 3D version of pacman, using component based architecture. a Video of This game in action can be seen Here <iframe width="560" height="315" src="https://www.youtube.com/embed/jwVj4e4HU9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
