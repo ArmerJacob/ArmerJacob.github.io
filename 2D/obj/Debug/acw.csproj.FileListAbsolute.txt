@@ -1,6 +1,0 @@
-C:\Users\jake\Desktop\2d\acw\acw\bin\acw.dll.config
-C:\Users\jake\Desktop\2d\acw\acw\bin\acw.dll
-C:\Users\jake\Desktop\2d\acw\acw\bin\acw.pdb
-C:\Users\jake\Desktop\2d\acw\acw\obj\Debug\acw.csprojResolveAssemblyReference.cache
-C:\Users\jake\Desktop\2d\acw\acw\obj\Debug\acw.dll
-C:\Users\jake\Desktop\2d\acw\acw\obj\Debug\acw.pdb
