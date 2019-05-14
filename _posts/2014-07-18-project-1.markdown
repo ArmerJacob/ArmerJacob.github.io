@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2019-04-29
-img: 3DGorillas1.png
+img: 3DGorillas.png
 alt: image-alt
 project-date: April 2019
 client: University Coursework
