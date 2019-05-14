@@ -7,6 +7,7 @@ alt: image-alt
 project-date: December 2018
 client: University Coursework
 category: Game Development
-description: As a coursework for Games Architecture i had to make a 3D version of pacman, using component based architecture. a Video of This game in action can be seen Here <iframe width="560" height="315" src="https://www.youtube.com/embed/jwVj4e4HU9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+description: As a coursework for Games Architecture i had to make a 3D version of pacman, using component based architecture. a Video of This game in action can be seen Here 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jwVj4e4HU9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
