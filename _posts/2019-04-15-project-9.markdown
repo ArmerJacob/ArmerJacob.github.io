@@ -2,11 +2,11 @@
 layout: default
 modal-id: 9
 date: 2019-04-15
-img: cabin.png
+img: Distributed.png
 alt: image-alt
 project-date: April 2019
 client: University Coursework
 category: Distributed
-description: 
+description: the Corusework for Distributed Systems was to create a server and a client that communicated using API keys, and various encrytpion methods. The code can be found on my Github https://github.com/ArmerJacob/Distributed-Systems-Coursework
 
 ---
