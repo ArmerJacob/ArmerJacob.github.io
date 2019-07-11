@@ -7,6 +7,6 @@ alt: image-alt
 project-date: November 2017
 client: University Coursework
 category: 2D Graphics
-description: As corusework for 2D Graphics we had to make a scene in javascript that had two objects with physics and animation. The code for this project can be found on my Github https://github.com/ArmerJacob/2D-Coursework.
+description: As corusework for 2D Graphics we had to make a scene in javascript that had two objects with physics and animation. The code for this project can be found on my Github <a href="https://github.com/ArmerJacob/2D-Coursework."> Here</a> 
 
 ---

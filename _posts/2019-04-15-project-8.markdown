@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2018
 client: University Coursework
 category: Wordsearch Solver C++
-description: As coursework we were required to use C++ and make a program that used Linked Lists to find words in a wordsearch and also time how quickly it would do this, and compare those times to a more simple method of solving the word searched. The code for this project can be found on my Github https://github.com/ArmerJacob/Advanced-Programming-Coursework 
+description: As coursework we were required to use C++ and make a program that used Linked Lists to find words in a wordsearch and also time how quickly it would do this, and compare those times to a more simple method of solving the word searched. The code for this project can be found on my Github <a href="https://github.com/ArmerJacob/Advanced-Programming-Coursework"> Here</a> 
 
 ---
