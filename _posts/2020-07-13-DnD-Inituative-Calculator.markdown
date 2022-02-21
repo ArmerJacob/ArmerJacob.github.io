@@ -2,7 +2,7 @@
 layout: default
 modal-id: 10
 date: 2020-06-21
-img: DnDInitiativeCalculator
+img: DnDInitiativeCalculator.png
 alt: image-alt
 project-date: Ongoing
 client: Personal

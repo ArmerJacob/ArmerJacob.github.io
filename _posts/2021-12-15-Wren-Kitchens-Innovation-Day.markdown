@@ -2,7 +2,7 @@
 layout: default
 modal-id: 11
 date: 2021-12-15
-img: WrenKitchens.jpg
+img: WrenKitchens.png
 alt: image-alt
 project-date: 2021-12-15
 client: Wren Kitchens

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 12
 date: 2022-01-05
-img: CardGame.png
+img: UntitlesRTS.png
 alt: image-alt
 project-date: Ongoing
 client: Personal
