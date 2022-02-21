@@ -7,6 +7,6 @@ alt: image-alt
 project-date: November 2017
 client: University Coursework
 category: 2D Graphics
-description: As corusework for 2D Graphics we had to make a scene in javascript that had two objects with physics and animation. The code for this project can be found on my Github <a href="https://github.com/ArmerJacob/2D-Coursework."  target="_blank" > Here!</a> 
+description: A coursework for university, written in Javascript, this is a 2D simulation where two circles bounce around and eventually settle. This was made from the ground up starting with drawing 2D lines and building to have shapes and animations and then finally physics. The code for this project can be found on my Github <a href="https://github.com/ArmerJacob/2D-Coursework."  target="_blank" > Here!</a> 
 
 ---
