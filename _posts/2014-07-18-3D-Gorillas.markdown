@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2019
 client: University Coursework
 category: Game Development
-description: For my final year project at university, I made a 3D adaption of the game Gorillas, by IBM; I did this by repurposing and adapting the engine that was created for the Pacman Project. The game world for this project is randomly generated and saved locally, with the heights of the hills affecting nearby generations. I also developed an enemy AI, which can be toggled on or off, that will attempt to hit the player, becoming more accurate with each miss.<br><iframe width="560" height="315" src="https://www.youtube.com/watch?v=HosRSkY0Dew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+description: For my final year project at university, I made a 3D adaption of the game Gorillas, by IBM; I did this by repurposing and adapting the engine that was created for the Pacman Project. The game world for this project is randomly generated and saved locally, with the heights of the hills affecting nearby generations. I also developed an enemy AI, which can be toggled on or off, that will attempt to hit the player, becoming more accurate with each miss.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/HosRSkY0Dew" " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
