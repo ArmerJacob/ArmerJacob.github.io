@@ -4,7 +4,7 @@ email: jakearmer@hotmail.co.uk
 url: www.jacobarmer.com
 description: "Jacob Armer - Portfolio"
 keywords: ""
-skills: "Programmer, Amateur Game Designer/Developer"
+skills: "Programmer, Game Designer/Developer"
 meta_author: Armer Jacob
 
 # Google webmaster tools
@@ -38,21 +38,21 @@ footer:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
-  - title: github
-    url: http://github.com/ArmerJacob
+#social:
+#  - title: twitter
+#    url: 
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: 
+#  - title: bitbucket
+#    url: 
+#  - title: github
+#    url: http://github.com/ArmerJacob
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: West Yorkshire
+  - line: East Riding of Yorkshire
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
