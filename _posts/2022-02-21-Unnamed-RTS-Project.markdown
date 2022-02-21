@@ -2,7 +2,7 @@
 layout: default
 modal-id: 12
 date: 2022-01-05
-img: UntitlesRTS.png
+img: UntitlesRTS.gif
 alt: image-alt
 project-date: Ongoing
 client: Personal
