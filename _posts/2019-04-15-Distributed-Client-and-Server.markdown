@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2019-04-15
-img: Distributed.png
+img: Distributed.gif
 alt: image-alt
 project-date: April 2019
 client: University Coursework
