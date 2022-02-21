@@ -7,6 +7,6 @@ alt: image-alt
 project-date: November 2017
 client: University Coursework
 category: 2D Graphics
-description: A coursework for university, written in Javascript, this is a 2D simulation where two circles bounce around and eventually settle. This was made from the ground up starting with drawing 2D lines and building to have shapes and animations and then finally physics. The code for this project can be found on my Github <a href="https://github.com/ArmerJacob/2D-Coursework."  target="_blank" > Here!</a> 
+description: This was an early piece I developed from the ground up, starting by drawing 2D lines and building to have shapes and animations, and finally physics. This 2D simulation was written in Javascript. The code for this project can be found on my Github <u><a href="https://github.com/ArmerJacob/2D-Coursework."  target="_blank" > Here!</a></u>
 
 ---

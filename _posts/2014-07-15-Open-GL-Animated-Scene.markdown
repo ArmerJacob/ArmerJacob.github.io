@@ -7,6 +7,6 @@ alt: image-alt
 project-date: March 2018
 client: University Coursework
 category: 3D Graphics
-description: The first piece of coursework for 3D Graphics was to create a scene with objects that are animated and have textures, as well as different lighting techiques created in OpenGL.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/THPk8BGfypQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+description: One of my first pieces of coursework: I was asked to create a scene with textured objects that are animated, as well as including different lighting techniques created in OpenGL. <br><iframe width="560" height="315" src="https://www.youtube.com/embed/THPk8BGfypQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---

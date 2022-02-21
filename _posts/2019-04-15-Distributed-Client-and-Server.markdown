@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2019
 client: University Coursework
 category: Distributed
-description: the Corusework for Distributed Systems was to create a server and a client that communicated using API keys, and various encrytpion methods. The code can be found on my Github <a href="https://github.com/ArmerJacob/Distributed-Systems-Coursework"  target="_blank" > Here!</a> 
+description: The aim of this piece of coursework was to create a server and a client that communicated using APIs and various encryption methods. The code can be found on my Github <u><a href="https://github.com/ArmerJacob/Networking-Coursework"  target="_blank" > Here!</a></u> 
 
 ---
