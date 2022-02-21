@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2017-10-14
-img: 2D.png
+img: 2D.gif
 alt: image-alt
 project-date: November 2017
 client: University Coursework
